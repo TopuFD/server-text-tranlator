@@ -38,6 +38,7 @@ dependencies:
   get: ^4.6.6
   http: ^1.2.2
   translator_plus: ^1.0.1
+  speech_to_text: ^7.0.0
 
 dev_dependencies:
   flutter_test:
